@@ -1,0 +1,22 @@
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.exe.config
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.exe
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.pdb
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.AssemblyReference.cache
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.Properties.Resources.resources
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.exe
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.pdb
+C:\Users\Константин\source\repos\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.Form1.resources
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.exe.config
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.exe
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\bin\Debug\AirplaneGame.pdb
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.AssemblyReference.cache
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.Form1.resources
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.Properties.Resources.resources
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.GenerateResource.cache
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.csproj.CoreCompileInputs.cache
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.exe
+C:\Users\Константин\OneDrive - УрФУ\Рабочий стол\AirplaneGame\AirplaneGame\obj\Debug\AirplaneGame.pdb
