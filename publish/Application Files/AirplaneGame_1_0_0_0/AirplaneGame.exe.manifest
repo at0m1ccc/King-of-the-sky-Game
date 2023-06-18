@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AirplaneGame.exe" version="1.0.0.0" publicKeyToken="8c1e619660919888" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AirplaneGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AirplaneGame.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AirplaneGame.exe" size="37888">
+      <assemblyIdentity name="AirplaneGame" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6SqiYOVwauvOgvcrZ20wtEjbd4+qJ4W70Yy8+YwKd5Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AirplaneGame.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\1.png" size="16829">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tQ/1DnF9ZXlNCGJLTtNgaeroluMuSfB7fpvX7NqfwdA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\2.png" size="53526">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f41Lx0w5ZCk6swjSKeMFLcRVIno8ffVElPOjpPgaE5c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\3.png" size="28054">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qrh4t80dz9lXNAAsQGARdzoMVaID6iYXEGOdE4DSWlE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\airplane1.png" size="12588">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LQ9F0/dK+4Arl4Ux154kuhkOou7bGJbkQnaaAJ/fJP0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\airplane2.png" size="38890">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>164GdIvDGB0gpiaVng9q0QwQ5wzPOYnWiV0lv0HO+p8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\airplane3.png" size="27153">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>redBg5msdZwmo4kjnKoi6iGKJDCcCbstxX/1GU+taXM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\airplane4.png" size="32670">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3KmPKRtfivPpMIje2jlb3apWyUVAnttgtLdQA5XSNuI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\background.png" size="497434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pZQh7WwbEAZfLObOIstdvUm9VYyTdI/eSU+qAHk5/SI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\BulletImage.png" size="2814">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5ZjYn8JwLI79MT5Hrblsoi+GbRSRx66+L/nK8EUUEOI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\GameOver.png" size="1355072">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CNi6kpbjzgIMEdRzwzfL4wbnKuVYXKW83rnKJSikak0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\hangar.png" size="39062">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>emODXNiG/Z9IK73fubzo6ONkfabss2fQcEpJ8Nj04Kc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\LifesAirplane.png" size="87744">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3uoZsdUe0ypWUur4am3PgkLWl5hlr6MqKkKaDxRox40=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\MenuImage.png" size="771848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4b68o6dvgrgX7pNkEQMBBQnBUp5BBV2ngbIJdjg0M5k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\Pause.png" size="3186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sJCtIFRWQq9bTmnxP82aU+PPMZvc+B0ZFFm5tvcme7A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\SplittingBullet.png" size="54050">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>t1ucaRMlzvwLZnxACjjMXDI+rdFmMpu69rqS3GIEpJU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\StandartBullet.png" size="428612">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>31q4lI+VjgUzjo/00wK+xnWaaBUcq1QpXgnJ34ftGK4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\Starrr.png" size="80983">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c7kyNdxu4NT9HdDKkWLvhrcMfUVrR8iSvgZWTc96wEI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\Text.png" size="32001">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/KQNifL23/ViUWuLokBGDOAsrsCYd4tzHj6kBoZ7wmc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ImagesForGame\Training.png" size="2557241">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>L1UOq5aIuOSaZJeV14SXfExp3FGtwMDV2eWWNwv0Tt0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-86UOD0N2\Константин" issuerKeyHash="6df87661c7ee7802b72238786e21633ae54d4720" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>y1lrS3KQwfmJMJYE/+YJBra/58y/+RSiD9Y3c8xaTcI=</DigestValue></Reference></SignedInfo><SignatureValue>LbQdITQtlTTecjzoFEKWNKgZ+4jJ5dI9F0lkRWW7WzL/mHg6VMAGWL2aWZ8KSdeHWIFXjiyS1rao2rzYunKWooRzZN23Sn8tIWEV4Lifn1cr6FnSWGkbZ/hFESReojQzDbrcbeMmE+i/LTVkerJAvp7NK4cB456heYQt10HtIlI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rmwRXK08deR/jKiKx2GnpzTHCYyHs0+4wKxFmkoI44C9vg3mc9MuXmAskEgAmerayUuqzqsKnnPWDhkuLD6O6tjBrQ20BFssZOfklb4y8feoA8ic0KW/HqLw62812oss+AhWxAWJDclZa/5KUL/5P4fcGFaV0WPXBbBoIg792eU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c24d5acc7337d60fa214f9bfcce7bfb60609e6ff04963089f9c190724b6b59cb" Description="" Url=""><as:assemblyIdentity name="AirplaneGame.exe" version="1.0.0.0" publicKeyToken="8c1e619660919888" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-86UOD0N2\Константин</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>NreocE+Esx27HF2Giij6Hf4RmYGkmzYbLQ4l7dzq4JA=</DigestValue></Reference></SignedInfo><SignatureValue>TmYLgWljsn5I3Sc7J/5koAgyQ0PVvOEX3E9+7MBDFUF+PvueyCHupE8wsav+HHLlfNVKvEXIwEtNA1ug5O90RbSY4n+SXSSO5dYVmA7kczNLO8MpUphoBUQTDw/MbhRMCJexM4GX1Bge2+PF+jbFDA9JG+bX3XwfhFdfZWF+txs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rmwRXK08deR/jKiKx2GnpzTHCYyHs0+4wKxFmkoI44C9vg3mc9MuXmAskEgAmerayUuqzqsKnnPWDhkuLD6O6tjBrQ20BFssZOfklb4y8feoA8ic0KW/HqLw62812oss+AhWxAWJDclZa/5KUL/5P4fcGFaV0WPXBbBoIg792eU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQFbC7eWvA6IhAJ6xgCloFIjANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQATABBAFAAVABPAFAALQA4ADYAVQBPAEQAMABOADIAXAQaBD4EPQRBBEIEMAQ9BEIEOAQ9MB4XDTIzMDYxODExNTQyM1oXDTI0MDYxNzE3NTQyM1owPzE9MDsGA1UEAx40AEwAQQBQAFQATwBQAC0AOAA2AFUATwBEADAATgAyAFwEGgQ+BD0EQQRCBDAEPQRCBDgEPTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArmwRXK08deR/jKiKx2GnpzTHCYyHs0+4wKxFmkoI44C9vg3mc9MuXmAskEgAmerayUuqzqsKnnPWDhkuLD6O6tjBrQ20BFssZOfklb4y8feoA8ic0KW/HqLw62812oss+AhWxAWJDclZa/5KUL/5P4fcGFaV0WPXBbBoIg792eUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQA26mRuulO7ug62tJrAi85cUy7OTroiMoAOlYdtRciPfEhCyPVTGSyz+mYuqojC/4QURXTUbpaufQ4sYfAP+9Nz0CYy9Ejji4Cj7BrAliE0yjw3Ch5DOU0P3/otxmT/RGv9zZ8CPzMQB1OHf6FOvIymjzgqU/TASP2vKgBuE5C+RQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

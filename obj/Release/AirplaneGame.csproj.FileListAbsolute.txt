@@ -1,0 +1,15 @@
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\bin\Release\AirplaneGame.exe.config
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\bin\Release\AirplaneGame.exe
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\bin\Release\AirplaneGame.pdb
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.csproj.AssemblyReference.cache
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.Form1.resources
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.Properties.Resources.resources
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.csproj.GenerateResource.cache
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.exe
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.pdb
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\bin\Release\AirplaneGame.exe.manifest
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\bin\Release\AirplaneGame.application
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.exe.manifest
+C:\Users\Константин\Downloads\King-of-the-sky-Game-main\King-of-the-sky-Game-main\AirplaneGame\AirplaneGame\obj\Release\AirplaneGame.application
